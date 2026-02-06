@@ -21,3 +21,5 @@ if (idadedoUsuario >= 18) {
 } else {
     alert('Não pode tirar habilitação');
 }
+console.log("teste");
+
